@@ -1,5 +1,7 @@
 package com.devcolibri.secure.config;
 
+// http://devcolibri.com/3810
+
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
